@@ -1,6 +1,6 @@
 # bolt-clone
 
-I will update it tommorow.
+I will update it tomorrow.
 
 deployed: https://vm-7zs0bkv62pzwue4bmw8s48cw.vusercontent.net/
 
